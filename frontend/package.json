@@ -10,7 +10,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-<<<<<<< HEAD
     "@tailwindcss/vite": "^4.3.1",
     "axios": "^1.18.0",
     "react": "^19.2.6",
@@ -18,10 +17,6 @@
     "react-icons": "^5.6.0",
     "react-toastify": "^11.1.0",
     "tailwindcss": "^4.3.1"
-=======
-    "react": "^19.2.6",
-    "react-dom": "^19.2.6"
->>>>>>> dd5bffad88f275233ae0c66b03e59b4f1b041794
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
